@@ -4,8 +4,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1ADC32FF&width=800&lines=Always+learning+new+things" />
 </p>
-## About Me
-I am a third year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelors in Computer Engineering. I am an open source Contributor and an web development addict.
+
+<div>
+      <a href="">About Me </a>
+      <p>
+        <b>
+          I am a third year student at Bangladesh University of Business and
+          Technology (BUBT) currently doing my Bachelors in Computer
+          Engineering. I am an open source Contributor and an web development
+          addict.</b
+        >
+      </p>
+    </div>
 
 
 ## Visitor Count

@@ -6,7 +6,7 @@ I am a third year student at Bangladesh University of Business and Technology (B
 
 
 ## Visitor Count
-![Visitor Count]((https://profile-counter.glitch.me/alemam242/count.svg))
+![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />

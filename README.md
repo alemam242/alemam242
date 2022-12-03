@@ -9,7 +9,7 @@
       <a href="https://github.com/alemam242/">About Me </a>
       <p>
         <b>
-          I am a third year student at Bangladesh University of Business and
+          I am a student at Bangladesh University of Business and
           Technology (BUBT) currently doing my Bachelors in Computer
           Engineering. I am an open source Contributor and an web development
           addict.</b

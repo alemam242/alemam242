@@ -40,7 +40,10 @@
 </div>
 <hr>
 
-## Github Content 💹
+## Github Content 💹  
+
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemam242&show_icons=true&locale=en&layout=compact" alt="alemam242" /></p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemam242&show_icons=true&locale=en" alt="alemam242" /></p>-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&" alt="alemam242" /></p>
@@ -87,6 +90,8 @@ Want to know more, discuss, or talk about anything? 💬
 
 <br/>
 <hr>
+
+
 ![GitHub metrics](https://metrics.lecoq.io/alemam242)
 
 <p align="center">

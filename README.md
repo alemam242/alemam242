@@ -75,7 +75,7 @@ Want to know more, discuss, or talk about anything? 💬
 
   <br />
 
-  <a href="https://www.quora.com/profile/alemam242" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.quora.com/profile/Md-Al-Emam-1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Quora-Al Emam-darkred?logo=quora&logoColor=red&color=darkred" />
   </a>
 
@@ -83,8 +83,12 @@ Want to know more, discuss, or talk about anything? 💬
     <img src="https://img.shields.io/badge/DEV.TO-alemam242-black?logo=dev.to&logoColor=white&color=white" />
   </a>
 
-  <a href="https://stackoverflow.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://stackoverflow.com/users/20741313/md-al-emam" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/StackOverflow-AL%20Emam-orange?logo=stackoverflow&logoColor=orange&color=purple" />
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/alemadzc7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GeekForGeeks-AL%20Emam-orange?logo=geeksforgeeks&logoColor=white&color=yellow" />
   </a>
 </p>
 

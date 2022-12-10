@@ -62,8 +62,7 @@ Want to know more, discuss, or talk about anything? 💬
   <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitLab-alemam242-orange?logo=gitlab&logoColor=orange&color=orange" />
   </a>
-
-    <!--<a href="https://www.youtube.com/channel/UCcZmWPJygsJ_szWKwTy2wqA" target="_blank" rel="noopener noreferrer">-->
+  
   <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-Al%20Emam-yellow?logo=youtube&logoColor=red&color=yellow" />
   </a>

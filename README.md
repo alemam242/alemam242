@@ -29,6 +29,7 @@
 
 ## GitHub Stats 📊
 
+<hr>
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=alemam242&theme=discord&row=2&column=4"/>

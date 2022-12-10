@@ -26,11 +26,11 @@
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
 
-<p display="block"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemam242&show_icons=true&locale=en&layout=compact" alt="alemam242" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemam242&show_icons=true&locale=en&layout=compact" alt="alemam242" /></p>
 
-<h2 align="center">GitHub Stats 📊</h2>
+<h2 align="left">GitHub Stats 📊</h2>
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=alemam242&theme=discord&row=2&column=4"/>
     </a>

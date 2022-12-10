@@ -27,8 +27,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemam242&show_icons=true&locale=en&layout=compact" alt="alemam242" /></p>
-<br>
-<h2 align="center">GitHub Stats 📊</h2>
+
+<p>&nbsp;<h2 align="center">GitHub Stats 📊</h2></p>
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">

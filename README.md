@@ -26,8 +26,9 @@
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
 
-## GitHub Stats 📊
 <hr>
+## GitHub Stats 📊
+
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=alemam242&theme=discord&row=2&column=4"/>

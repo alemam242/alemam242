@@ -26,17 +26,17 @@
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
 
-<h2 align="left">GitHub Stats 📊</h2>
-
+## GitHub Stats 📊
+<hr>
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=alemam242&theme=discord&row=1&column=7"/>
+        <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=alemam242&theme=discord&row=2&column=4"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=alemam242&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
     </a>
 </div>
-
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemam242&show_icons=true&locale=en&layout=compact" alt="alemam242" /></p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemam242&show_icons=true&locale=en" alt="alemam242" /></p>-->
 

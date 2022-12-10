@@ -32,7 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&" alt="alemam242" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alemam242)  
 
 ![GitHub metrics](https://metrics.lecoq.io/alemam242)
 

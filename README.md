@@ -37,9 +37,14 @@
     </a>
 </div>
 <hr>
+
+## Most Used Language 💹
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemam242&show_icons=true&locale=en&layout=compact" alt="alemam242" /></p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemam242&show_icons=true&locale=en" alt="alemam242" /></p>-->
 
+<hr>
+
+## Github Content
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&" alt="alemam242" /></p>
 
 <hr>
@@ -74,7 +79,7 @@ Want to know more, discuss, or talk about anything? 💬
   </a>
 
   <a href="https://dev.to/alemam242" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/DEV.TO-alemam242-black?logo=dev.to&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/DEV.TO-alemam242-black?logo=dev.to&logoColor=white&color=white" />
   </a>
 
   <a href="https://stackoverflow.com/" target="_blank" rel="noopener noreferrer">
@@ -83,7 +88,7 @@ Want to know more, discuss, or talk about anything? 💬
 </p>
 
 <br/>
-
+<hr>
 ![GitHub metrics](https://metrics.lecoq.io/alemam242)
 
 <p align="center">

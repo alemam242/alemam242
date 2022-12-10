@@ -42,6 +42,48 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&" alt="alemam242" /></p>
 
+<hr>
+
+## Contact 📧
+
+Want to know more, discuss, or talk about anything? 💬
+- E-mail: alemam242@gmail.com
+
+<hr>
+
+## Social media 📱
+
+<p align="center">
+
+  <a href="https://twitter.com/MdAlEmam2" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-Al%20Emam-blue?logo=twitter&logoColor=blue&color=blue" />
+  </a>
+
+  <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-alemam242-orange?logo=gitlab&logoColor=orange&color=orange" />
+  </a>
+
+    <!--<a href="https://www.youtube.com/channel/UCcZmWPJygsJ_szWKwTy2wqA" target="_blank" rel="noopener noreferrer">-->
+  <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-Al%20Emam-yellow?logo=youtube&logoColor=red&color=yellow" />
+  </a>
+
+  <br />
+
+  <a href="https://www.quora.com/profile/alemam242" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Quora-Al Emam-darkred?logo=quora&logoColor=red&color=darkred" />
+  </a>
+
+  <a href="https://dev.to/alemam242" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DEV.TO-alemam242-black?logo=dev.to&logoColor=white&color=black" />
+  </a>
+
+  <a href="https://stackoverflow.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/StackOverflow-AL%20Emam-orange?logo=stackoverflow&logoColor=orange&color=purple" />
+  </a>
+</p>
+
+<br/>
 
 ![GitHub metrics](https://metrics.lecoq.io/alemam242)
 

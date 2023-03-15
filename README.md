@@ -52,15 +52,15 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemam242&show_icons=true&locale=en" alt="alemam242" /></p>-->
 
 <p><img width="50%" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&" alt="alemam242" /></p>
-<div>
+</div>
   
 <hr>
 
 ## Contact 📧
-
+  
 Want to know more, discuss, or talk about anything? 💬
 - E-mail: alemam242@gmail.com
-
+  
 <hr>
 
 ## Social media 📱

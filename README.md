@@ -67,7 +67,16 @@ Want to know more, discuss, or talk about anything? 💬
   
 <hr>
 
-## Social media 📱
+## Active Social Media
+
+<p align="center">
+  <a href="https://facebook.com/suvo242" target="_blank" rel="noopener noreferrer">
+    <img src="https://icons8.com/icon/70837/facebook-circled" />
+  </a>
+</p>
+<hr>
+
+## Another Social Media 📱
 
 <p align="center">
 

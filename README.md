@@ -30,6 +30,7 @@
 ## GitHub Stats 📊
 
 <hr>
+
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="50%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=alemam242&theme=discord&row=2&column=4"/>
@@ -38,11 +39,13 @@
         <img width="50%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=alemam242&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
     </a>
 </div>
+
 <hr>
 
 ## Github Content 💹  
 
 <hr>
+
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemam242&show_icons=true&locale=en&layout=compact" alt="alemam242" /></p> 
 
@@ -50,6 +53,7 @@
 
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&" alt="alemam242" /></p>
 <div>
+  
 <hr>
 
 ## Contact 📧

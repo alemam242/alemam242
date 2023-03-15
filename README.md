@@ -9,7 +9,7 @@
       <a href="https://github.com/alemam242/">About Me </a>
       <p>
         <b>
-          I am a student at Bangladesh University of Business and
+          I'm <a href="https://www.facebook.com/suvo242">Md. Al Emam</a>. I am a student at Bangladesh University of Business and
           Technology (BUBT) currently doing my Bachelors in Computer
           Engineering. I am an open source Contributor and an web development
           addict.</b
@@ -51,6 +51,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&" alt="alemam242" /></p>
 
 <hr>
+
+## Github Badges
+
+<hr>
+
+[![An image of @alemam2428's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alemam2428)](https://holopin.io/@alemam2428)
 
 ## Contact 📧
 

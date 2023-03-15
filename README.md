@@ -52,12 +52,6 @@
 
 <hr>
 
-## Github Badges
-
-<hr>
-
-[![An image of @alemam2428's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alemam2428)](https://holopin.io/@alemam2428)
-
 ## Contact 📧
 
 Want to know more, discuss, or talk about anything? 💬

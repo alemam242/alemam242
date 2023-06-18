@@ -9,9 +9,9 @@
       <h3>ℹ️ About Me </h3>
       <p>
         <b>
-          I'm <a href="https://www.facebook.com/suvo242">Md. Al Emam</a>. I am a student at Bangladesh University of Business and
+          I'm <a href="https://www.facebook.com/suvo242">Md. Al Emam</a>. I am a student at the Bangladesh University of Business and
           Technology (BUBT) currently doing my Bachelors in Computer
-          Engineering. I am an open source Contributor and an web development
+          Engineering. I am an open-source Contributor and a web and app development
           addict.</b
         >
       </p>

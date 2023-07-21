@@ -10,7 +10,7 @@
       <p>
         <b>
           I'm <a href="https://www.facebook.com/suvo242">Md. Al Emam</a>. I am a student at the Bangladesh University of Business and
-          Technology (BUBT) currently doing my Bachelors in Computer Science and Engineering (CSE). I am an open-source Contributor and a web and app development
+          Technology (BUBT) currently doing my Bachelor of Science (B.Sc) in Computer Science and Engineering (CSE). I am an open-source Contributor and a web and app development
           addict.</b
         >
       </p>

@@ -58,6 +58,8 @@
 
 <p><img width="50%" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&theme=algolia" alt="alemam242" /></p>
 </div>
+
+[![An image of @alemam2428's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alemam2428)](https://holopin.io/@alemam2428)
   
 <hr>
 

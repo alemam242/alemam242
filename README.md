@@ -33,7 +33,9 @@
 ## GitHub Stats 📊
 
 <hr>
+<p align="center">
 <a href="https://stardev.io/developers/alemam242"><img alt="Check out alemam242&apos;s profile on stardev.io" src="https://stardev.io/developers/alemam242/badge/languages/global.svg" /></a>
+</p>
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=alemam242&theme=discord&row=2&column=4"/>

@@ -35,6 +35,7 @@
 <hr>
 <p align="center">
 <a href="https://stardev.io/developers/alemam242"><img alt="Check out alemam242&apos;s profile on stardev.io" src="https://stardev.io/developers/alemam242/badge/languages/global.svg" /></a>
+  <a href="https://app.daily.dev/alemam242"><img src="https://api.daily.dev/devcards/v2/m5j09iZO2lBItDqLI9PmR.png?r=589" width="356" alt="Md. Al Emam's Dev Card"/></a>
 </p>
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">

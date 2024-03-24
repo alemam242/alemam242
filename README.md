@@ -35,7 +35,6 @@
 <hr>
 <p align="center">
 <a href="https://stardev.io/developers/alemam242"><img alt="Check out alemam242&apos;s profile on stardev.io" src="https://stardev.io/developers/alemam242/badge/languages/global.svg" /></a>
-  <a href="https://app.daily.dev/alemam242"><img src="https://api.daily.dev/devcards/v2/m5j09iZO2lBItDqLI9PmR.png?r=589" width="356" alt="Md. Al Emam's Dev Card"/></a>
 </p>
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -119,8 +118,10 @@ Want to know more, discuss, or talk about anything? 💬
 <hr>
 
 
-![GitHub metrics](https://metrics.lecoq.io/alemam242)
-
+<!--![GitHub metrics](https://metrics.lecoq.io/alemam242)-->
+<p align="center">
+  <a href="https://app.daily.dev/alemam242"><img src="https://api.daily.dev/devcards/v2/m5j09iZO2lBItDqLI9PmR.png?r=589" width="356" alt="Md. Al Emam's Dev Card"/></a>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 </p>

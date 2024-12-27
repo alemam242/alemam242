@@ -24,7 +24,7 @@
 
 ## Visitor Count
 
-[![Visitor](https://img.shields.io/badge/Visitor%20Count-%231877F2.svg?logo=users&logoColor=white)]
+![Visitor](https://img.shields.io/badge/Visitor%20Count-%231877F2.svg?logo=users&logoColor=white)
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
 
 ## GitHub Stats 📊

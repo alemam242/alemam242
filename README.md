@@ -1,4 +1,10 @@
 <p align="center">
+
+[![](https://visitcount.itsvg.in/api?id=alemam242&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=2AF781FF&width=800&lines=Welcome+to+my+profile;It's+me+Alemam" />
 </p>
 <p align="center">
@@ -22,10 +28,10 @@
 
 <hr>
 
-## Visitor Count
+## Visitor Count 📈
 
-![Visitor](https://img.shields.io/badge/Visitor%20Count-%231877F2.svg?logo=users&logoColor=white)
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
+<!-- [![Visitor Count](https://visitcount.itsvg.in/api?id=alemam242&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ## GitHub Stats 📊
 
@@ -34,13 +40,17 @@
         <img alt="Check out alemam242&apos;s profile on stardev.io" src="https://stardev.io/developers/alemam242/badge/languages/global.svg" />
     </a>
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=alemam242&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alemam242&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alemam242&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div align="left">
-    <p>
-        <img width="50%" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&theme=algolia" alt="alemam242" />
-    </p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="52%" style="margin-left: 10px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=alemam242&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
-    </a>
+
+![](https://github-readme-stats.vercel.app/api?username=alemam242&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alemam242&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alemam242&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 <hr>

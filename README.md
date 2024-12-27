@@ -25,7 +25,7 @@
 ## Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=alemam242&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://profile-counter.glitch.me/alemam242)](https://visitcount.itsvg.in)
 
 ## GitHub Stats 📊
 

@@ -11,8 +11,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1ADC32FF&width=800&lines=Always+learning+new+things" />
 </p>
 
+# ℹ️ About Me
 <div>
-      <h3>ℹ️ About Me </h3>
       <p>
         <b>
           I'm <a href="https://www.facebook.com/suvo242">Md. Al Emam</a>. I am a student at the Bangladesh University of Business and
@@ -28,9 +28,11 @@
 
 <hr>
 
+<!-- 
 ## Visitor Count 📈
 
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
+-->
 <!-- [![Visitor Count](https://visitcount.itsvg.in/api?id=alemam242&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ## GitHub Stats 📊

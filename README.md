@@ -13,7 +13,7 @@
 
 # 👨‍💻 About Me
 <div>
-    <b>Hi, I’m <a href="https://www.facebook.com/suvo242">Md. Al Emam</a>! 🎓 I graduated from BUBT with a B.Sc in CSE and have been diving deep into the world of web and app development ever since. I’m passionate about open-source contributions and love building cool stuff. Currently, I’m working as a Software Engineer at a reputed software company, turning ideas into reality every day.</b>
+    <b>Hi, I’m <a href="https://www.facebook.com/suvo242">Md. Al Emam</a>! 🎓 I graduated from BUBT with a B.Sc in CSE and have been diving deep into the world of web and app development ever since. I’m passionate about open-source contributions and love building cool stuff.<br><br>I’m a backend-focused developer specializing in PHP and Laravel. Crafting scalable APIs, designing efficient databases, and building robust server-side applications are my jam! Currently, I’m working as a Software Engineer at a reputed software company, turning ideas into reality every day.</br>
 </div>
 <hr>
 

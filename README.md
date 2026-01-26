@@ -5,35 +5,49 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1ADC32FF&width=800&lines=Always+learning+new+things" />
 </p>
 
-<div style="margin-top:40px; margin-bottom: 40px;" align="center" title="Visitors Count">
+<p align="center">
+  <pre>
+            ______                                       ______   _______         _____ _____                         
+            ___  / ______ _______________ ____   _______ ___  /   ___    |__________  /____(_)______________ ________ 
+            __  /  _  __ `/__  ___/_  __ `/__ | / /_  _ \__  /    __  /| |__  ___/_  __/__  / __  ___/_  __ `/__  __ \
+            _  /___/ /_/ / _  /    / /_/ / __ |/ / /  __/_  /     _  ___ |_  /    / /_  _  /  _(__  ) / /_/ / _  / / /
+            /_____/\__,_/  /_/     \__,_/  _____/  \___/ /_/      /_/  |_|/_/     \__/  /_/   /____/  \__,_/  /_/ /_/ 
+  </pre>
+</p>
+
+<!--
+<div style="margin-top:40px; margin-bottom: 40px; display:none;" align="center" title="Visitors Count">
 
 ![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
 
 </div>
+-->
 
 # 👨‍💻 About Me
 <div>
     <b>Hi, I’m <a href="https://www.facebook.com/suvo242">Md. Al Emam</a>! 🎓 I graduated from BUBT with a B.Sc in CSE and have been diving deep into the world of web and app development ever since. I’m passionate about open-source contributions and love building cool stuff.<br><br>I’m a backend-focused developer specializing in PHP and Laravel. Crafting scalable APIs, designing efficient databases, and building robust server-side applications are my jam! Currently, I’m working as a Software Engineer at a reputed software company, turning ideas into reality every day.</br>
 </div>
+
 <hr>
 
 # 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
 
 <hr>
 
-<!-- 
-## Visitor Count 📈
+### Development Environment:
 
-![Visitor Count](https://profile-counter.glitch.me/alemam242/count.svg)
--->
-<!-- [![Visitor Count](https://visitcount.itsvg.in/api?id=alemam242&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alemam242)
+[![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/alemam242)
+[![AMD](https://img.shields.io/badge/Ryzen_7_7700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/alemam242)
+
+<hr>
 
 # 📊 GitHub Stats
 
 <div align="center">
-    <a href="https://stardev.io/developers/alemam242">
-        <img alt="Check out alemam242&apos;s profile on stardev.io" src="https://stardev.io/developers/alemam242/badge/languages/global.svg" />
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=alemam242&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=alemam242&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
     </a>
 </div>
 
@@ -46,7 +60,7 @@
     </p>
 </div>
 
-<div align="center">
+<div style="margin-top:40px;" align="center">
     <img width="62%" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=alemam242&theme=onedark" alt="alemam242" />
 </div>
 
@@ -56,33 +70,19 @@
 
 <hr>
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alemam242&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemam242&show_icons=true&locale=en" alt="alemam242" /></p>-->
-
-
-</div>
-
-
-
 <hr>
+-->
 
 # 📧 Contact 
 
 <b>Want to know more, discuss, or talk about anything? 💬</b>
 
-[![Email](https://img.shields.io/badge/alemam242@gmail.com-black.svg?logo=gmail&logoColor=red&color=blue)](mailto:alemam242@gmail.com)
+[![Email](https://img.shields.io/badge/alemam242@gmail.com-black.svg?logo=gmail&logoColor=red&color=blue)](mailto:alemam242@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suvo242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alemamsuvo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alemam242) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alemam242) [![Quora](https://img.shields.io/badge/Quora-%231877F2.svg?logo=quora&logoColor=red&color=darkred)](https://www.quora.com/profile/Md-Al-Emam-1) [![DEV](https://img.shields.io/badge/DEV.TO-%230077B5.svg?logo=dev.to&logoColor=white&color=gray)](https://dev.to/alemam242) [![StackOverflow](https://img.shields.io/badge/StackOverflow-black.svg?logo=StackOverflow&logoColor=orange)](https://stackoverflow.com/users/20741313/md-al-emam) [![GeekForGeeks](https://img.shields.io/badge/GeekForGeeks-black.svg?logo=geeksforgeeks&logoColor=white&color=yellow)](https://auth.geeksforgeeks.org/user/alemadzc7)
 
-<hr>
-
-# 🌐 Socials:
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suvo242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alemamsuvo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alemam242) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alemam242) [![Quora](https://img.shields.io/badge/Quora-%231877F2.svg?logo=quora&logoColor=red&color=darkred)](https://www.quora.com/profile/Md-Al-Emam-1) [![DEV](https://img.shields.io/badge/DEV.TO-%230077B5.svg?logo=dev.to&logoColor=white&color=gray)](https://dev.to/alemam242) [![StackOverflow](https://img.shields.io/badge/StackOverflow-black.svg?logo=StackOverflow&logoColor=orange)](https://stackoverflow.com/users/20741313/md-al-emam) [![GeekForGeeks](https://img.shields.io/badge/GeekForGeeks-black.svg?logo=geeksforgeeks&logoColor=white&color=yellow)](https://auth.geeksforgeeks.org/user/alemadzc7)
-
-</div>
 <hr>
 
 <!--![GitHub metrics](https://metrics.lecoq.io/alemam242)-->
@@ -95,7 +95,7 @@
 
 <p align="center">
   <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
-  <img height="33.9px" src="https://forthebadge.com/images/badges/works-on-my-machine.svg">
+  <!--<img height="50px" src="https://forthebadge.com/images/badges/works-on-my-machine.svg">-->
   <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
   <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
 </p>

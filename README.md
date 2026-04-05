@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alemam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20"/>
 
 <p align="center">
-  <a href="https://github.com/Ahasan39">
+  <a href="https://github.com/alemamdevs">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2AF781FF&center=true&vCenter=true&random=false&width=520&height=45&lines=Welcome+To+My+Profile;Full+Stack+Web+Developer+%F0%9F%9A%80;Always+Learning+%26+Building+%E2%9C%A8" alt="Alemam" />
   </a>
 </p>
@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alemam242&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/alemam242?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/alemam242?label=Stars&style=flat-square&color=58A6FF&affiliations=OWNER" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=alemamdevs&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/alemamdevs?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/alemamdevs?label=Stars&style=flat-square&color=58A6FF&affiliations=OWNER" alt="Stars" />
 </p>
 
 ## 👨‍💻 About Me
@@ -59,26 +59,26 @@
 
 ## Development Environment
 
-[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alemam242)
-[![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/alemam242)
-[![AMD](https://img.shields.io/badge/Ryzen_7_7700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/alemam242)
+[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alemamdevs)
+[![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/alemamdevs)
+[![AMD](https://img.shields.io/badge/Ryzen_7_7700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/alemamdevs)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alemam242&theme=onedark" alt="Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alemam242&theme=onedark&utcOffset=6" alt="Productive Time" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alemamdevs&theme=onedark" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alemamdevs&theme=onedark&utcOffset=6" alt="Productive Time" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alemam242&theme=onedark" alt="Top Languages by Repo" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alemam242&theme=onedark" alt="Top Languages by Commit" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alemamdevs&theme=onedark" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alemamdevs&theme=onedark" alt="Top Languages by Commit" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alemam242&theme=onedark" alt="Profile Details" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alemamdevs&theme=onedark" alt="Profile Details" width="97%" />
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alemam242&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=alemamdevs&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alemam242&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alemamdevs&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alemam242&theme=tokyo-night&hide_border=true&area=true&radius=6" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alemamdevs&theme=tokyo-night&hide_border=true&area=true&radius=6" alt="Activity Graph" width="95%" />
 </p>
 
 ---
@@ -113,21 +113,21 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alemam242/alemam242/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alemam242/alemam242/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/alemam242/alemam242/output/github-contribution-grid-snake.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alemamdevs/alemamdevs/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alemamdevs/alemamdevs/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/alemamdevs/alemamdevs/output/github-contribution-grid-snake.svg" width="95%" />
   </picture>
 </p>
 
 ---
 
-[![An image of @alemam2428's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alemam2428)](https://holopin.io/@alemam2428)
+[![An image of @alemamdevs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alemam2428)](https://holopin.io/@alemam2428)
 
 <hr>
 
 <!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alemam242&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alemamdevs&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
 -->
@@ -136,17 +136,17 @@
 
 <b>Want to know more, discuss, or talk about anything? 💬</b>
 
-[![Email](https://img.shields.io/badge/alemam242@gmail.com-black.svg?logo=gmail&logoColor=red&color=blue)](mailto:alemam242@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suvo242) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alemam242) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alemam242) [![Quora](https://img.shields.io/badge/Quora-%231877F2.svg?logo=quora&logoColor=red&color=darkred)](https://www.quora.com/profile/Md-Al-Emam-1) [![DEV](https://img.shields.io/badge/DEV.TO-%230077B5.svg?logo=dev.to&logoColor=white&color=gray)](https://dev.to/alemam242) [![StackOverflow](https://img.shields.io/badge/StackOverflow-black.svg?logo=StackOverflow&logoColor=orange)](https://stackoverflow.com/users/20741313/md-al-emam) [![GeekForGeeks](https://img.shields.io/badge/GeekForGeeks-black.svg?logo=geeksforgeeks&logoColor=white&color=yellow)](https://auth.geeksforgeeks.org/user/alemadzc7)
+[![Email](https://img.shields.io/badge/alemamdevs@gmail.com-black.svg?logo=gmail&logoColor=red&color=blue)](mailto:alemamdevs@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suvo242) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alemamdevs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alemamdevs) [![Quora](https://img.shields.io/badge/Quora-%231877F2.svg?logo=quora&logoColor=red&color=darkred)](https://www.quora.com/profile/Md-Al-Emam-1) [![DEV](https://img.shields.io/badge/DEV.TO-%230077B5.svg?logo=dev.to&logoColor=white&color=gray)](https://dev.to/alemamdevs) [![StackOverflow](https://img.shields.io/badge/StackOverflow-black.svg?logo=StackOverflow&logoColor=orange)](https://stackoverflow.com/users/20741313/md-al-emam) [![GeekForGeeks](https://img.shields.io/badge/GeekForGeeks-black.svg?logo=geeksforgeeks&logoColor=white&color=yellow)](https://auth.geeksforgeeks.org/user/alemadzc7)
 
 <hr>
 
-<!--![GitHub metrics](https://metrics.lecoq.io/alemam242)-->
+<!--![GitHub metrics](https://metrics.lecoq.io/alemamdevs)-->
 <p align="center">
-  <a href="https://app.daily.dev/alemam242"><img src="https://api.daily.dev/devcards/v2/m5j09iZO2lBItDqLI9PmR.png?r=589" width="356" alt="Md. Al Emam's Dev Card"/></a>
+  <a href="https://app.daily.dev/alemamdevs"><img src="https://api.daily.dev/devcards/v2/m5j09iZO2lBItDqLI9PmR.png?r=589" width="356" alt="Md. Al Emam's Dev Card"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ahasan39">
+  <a href="https://github.com/alemamdevs">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&height=45&lines=Thanks+For+Visiting!;Now+We+Both+Probably+Need+To+Get+Back+To+Coding;" alt="Alemam" />
   </a>
 </p>
@@ -165,7 +165,7 @@
 <!--
 <div align="center">
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alemam242) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alemamdevs) 
 
 </div>
 -->
